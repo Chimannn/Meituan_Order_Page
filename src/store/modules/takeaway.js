@@ -6,6 +6,7 @@ const foodsStore = createSlice({
     initialState: {
         foodsList: [],
         activeIndex: 0,
+        carList: [],
     },
     reducers: {
         setFoodsList: (state, action) => {
@@ -14,10 +15,18 @@ const foodsStore = createSlice({
         changeActiveIndex: (state, action) => {
             state.activeIndex = action.payload
         },
+        addCart: (state, action) => {
+            const item = state.carList.find(c => c.id === action.payload.id);
+            if(item) {
+                item.count += 1
+            }else {
+                state.carList.push(action.payload)
+            }
+        }
     }
 })
 
-const { setFoodsList, changeActiveIndex } = foodsStore.actions
+const { setFoodsList, changeActiveIndex, addCart } = foodsStore.actions
 
 const fetchFoodsList = () => {
     return async (dispatch) => {
@@ -26,7 +35,7 @@ const fetchFoodsList = () => {
     }
 }
 
-export { fetchFoodsList, changeActiveIndex }
+export { fetchFoodsList, changeActiveIndex, addCart }
 const reducer = foodsStore.reducer
 
 export default reducer

@@ -14,6 +14,7 @@
           "price": 90,
           "picture": "https://www.pokemon.cn/play/resources/pokedex/img/pm/cf47f9fac4ed3037ff2a8ea83204e32aff8fb5f3.png",
           "description": "",
+          "count": 1,
           "tag": "318569657"
         },
         {
@@ -26,6 +27,7 @@
           "price": 39,
           "picture": "https://www.pokemon.cn/play/resources/pokedex/img/pm/d0ee81f16175c97770192fb691fdda8da1f4f349.png",
           "description": "",
+          "count": 1,
           "tag": "318569657"
         },
         {
@@ -38,6 +40,7 @@
           "price": 34.32,
           "picture": "https://www.pokemon.cn/play/resources/pokedex/img/pm/5794f0251b1180998d72d1f8568239620ff5279c.png",
           "description": "主料：大米、鸡腿、菜心、胡萝卜",
+          "count": 1,
           "tag": "318569657"
         },
         {
@@ -50,6 +53,7 @@
           "price": 34.32,
           "picture": "https://www.pokemon.cn/play/resources/pokedex/img/pm/2fd12098f15628cce80d411e090189aeb7d758ff.png",
           "description": "酸汤莜面鱼鱼，主料：酸汤、莜面 肉夹馍，主料：白皮饼、猪肉",
+          "count": 1,
           "tag": "318569657"
         }
       ]
@@ -68,6 +72,7 @@
           "price": 6,
           "picture": "https://www.pokemon.cn/play/resources/pokedex/img/pm/2fd12098f15628cce80d411e090189aeb7d758ff.png",
           "description": "1串。藤椒味，主料：鸡肉",
+          "count": 1,
           "tag": "82022594"
         },
         {
@@ -80,6 +85,7 @@
           "price": 169,
           "picture": "https://www.pokemon.cn/play/resources/pokedex/img/pm/5794f0251b1180998d72d1f8568239620ff5279c.png",
           "description": "6-8个月草原羔羊肋排，烤到皮脆肉香",
+          "count": 1,
           "tag": "82022594"
         }
       ]
@@ -98,6 +104,7 @@
           "price": 5,
           "picture": "https://www.pokemon.cn/play/resources/pokedex/img/pm/cf47f9fac4ed3037ff2a8ea83204e32aff8fb5f3.png",
           "description": "浓浓的稻米清香，软糯Q弹有嚼劲",
+          "count": 1,
           "tag": "98147100"
         },
         {
@@ -110,6 +117,7 @@
           "price": 13,
           "picture": "https://www.pokemon.cn/play/resources/pokedex/img/pm/d0ee81f16175c97770192fb691fdda8da1f4f349.png",
           "description": "柔软蓬松，葡萄干和蔓越莓酸甜适口",
+          "count": 1,
           "tag": "98147100"
         },
         {
@@ -122,6 +130,7 @@
           "price": 13,
           "picture": "https://www.pokemon.cn/play/resources/pokedex/img/pm/cf47f9fac4ed3037ff2a8ea83204e32aff8fb5f3.png",
           "description": "",
+          "count": 1,
           "tag": "98147100"
         }
       ]
