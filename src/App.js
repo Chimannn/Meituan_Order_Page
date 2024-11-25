@@ -23,7 +23,6 @@ const App = () => {
     <div className="home">
       {/* 导航 */}
       <NavBar />
-
       {/* 内容 */}
       <div className="content-wrap">
         <div className="content">
