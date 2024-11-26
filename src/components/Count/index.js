@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable react/react-in-jsx-scope */
 import './index.scss'
 
 const Count = ({ onPlus, onMinus, count }) => {
